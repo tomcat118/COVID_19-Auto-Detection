@@ -15,4 +15,12 @@ The second section is a collection of Covid-19 images.
 ![6_Rahimzadeh_137covid_patient86_SR_4_IM00083](https://user-images.githubusercontent.com/80212154/221691666-2e04e243-b9a1-4c57-b9ff-8ea3aa2d44b2.png)
 
 ## Install and Run the Project
+###Check out the master branch;
+###clone the repo to local
+###open the .ipyn file with anaconda
+### select all and hit run
+### it should take some time for the model to train and run; 
+### then it will output the result of the model and training machine
+
+
 
